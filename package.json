@@ -1,0 +1,16 @@
+{
+  "name": "supportautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:testrunner": "./node_modules/.bin/cypress open",
+    "cy:run": "./node_modules/.bin/cypress run --browser chrome --headless",
+    "cy:open": "./node_modules/.bin/cypress run --browser chrome --headed"
+  },
+  "author": "ragavi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "chromeWebSecurity": false,
+    "experimentalSessionAndOrigin": true,
+    "baseUrl": "https://support-accept.saltoks.com/",
+    "defaultCommandTimeout": 30000,
+    "pageLoadTimeout": 150000,
+    "responseTimeout": 50000,
+    "testFiles": [
+        "Support-E2E/Collections.js",
+        "Support-E2E/Collection_Details & Events count validation.js",
+        "Support-E2E/Collection_Actions.js",
+        "Support-E2E/Collections_Hardware table checks.js",
+        "Support-E2E/Collections_Entries.js",
+        "Support-E2E/Collections_Incidents.js",
+        "Support-E2E/Collections_Updates.js",
+        "Support-E2E/Collections_Subscriptions.js",
+        "Support-E2E/IQ.js",
+        "Support-E2E/IQ_details.js",
+        "Support-E2E/IQ_Actions.js",
+        "Support-E2E/IQ_Hardware tree data check and Lock actions.js",
+        "Support-E2E/IQ_Entries.js",
+        "Support-E2E/IQ_Incidents.js",
+        "Support-E2E/IQ_RF Channel.js",
+        "Support-E2E/IQ_Updates.js",
+        "Support-E2E/Groups.js",
+        "Support-E2E/Access.js",
+        "Support-E2E/Updates.js",
+        "Support-E2E/Users.js",
+        "Support-E2E/Tag analysis.js",
+        "Support-E2E/Installer Companies.js"
+    ]
+}

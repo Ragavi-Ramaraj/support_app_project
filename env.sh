@@ -1,0 +1,10 @@
+ export CYPRESS_USEREMAIL=user@email.com
+ export CYPRESS_PASSWORD=password
+ export CYPRESS_SAP_CLIENT_ID=sap_client_id
+ export CYPRESS_SAP_CLIENT_SECRET=sap_client_id
+ export CYPRESS_SAP_GRANT_TYPE=sap_grant_type
+ export CYPRESS_SAP_IQ_URL=sap_iq_url
+ export CYPRESS_SAP_PASSWORD=password
+ export CYPRESS_SAP_SCOPE=sap_scope
+ export CYPRESS_SAP_USEREMAIL=sap_usermail
+ export CYPRESS_TOKENURL=tokenurl
